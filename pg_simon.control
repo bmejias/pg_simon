@@ -1,0 +1,5 @@
+# pg_simon extension
+comment = 'Simon Riggs cheering'
+default_version = '42'
+module_pathname = '$libdir/pg_simon'
+relocatable = false
